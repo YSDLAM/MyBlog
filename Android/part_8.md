@@ -71,7 +71,7 @@ public class MyDatabaseHelper extends SQLiteOpenHelper {
     }
 ```
 * 增删改查其实都有对应的方法
-* 增-db.db.insert()
+* 增-db.insert()
 * 删-db.delete()
 * 改-db.update()
 * 查-db.rawQuery()

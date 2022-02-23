@@ -15,3 +15,5 @@
     * [Android开发-使用RecyclerView](/Android/part_7.md)
 
     * [Android开发-使用SQLite数据库](/Android/part_8.md)
+
+    * [Android开发-使用Room](/Android/part_9.md)
