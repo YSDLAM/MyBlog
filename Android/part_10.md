@@ -103,3 +103,22 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
+## 如何管理BottomSheetDialog
+* 如何知道BottomSheetDialog展开了
+* 如何知道BottomSheetDialog收起了
+
+```
+        bottomSheetDialog.setOnShowListener(new DialogInterface.OnShowListener() {
+            @Override
+            public void onShow(DialogInterface dialogInterface) {
+                Toast.makeText(MainActivity.this, "展开", Toast.LENGTH_SHORT).show();
+            }
+        });
+        
+        bottomSheetDialog.setOnCancelListener(new DialogInterface.OnCancelListener() {
+            @Override
+            public void onCancel(DialogInterface dialogInterface) {
+                Toast.makeText(MainActivity.this, "收起", Toast.LENGTH_SHORT).show();
+            }
+        });
+```
