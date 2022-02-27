@@ -176,3 +176,17 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 [![HvSxHI.png](https://s4.ax1x.com/2022/02/21/HvSxHI.png)](https://imgtu.com/i/HvSxHI)
+
+# 2022年2月27号更新内容
+* 如何使RecyclerVier的item左右滑动
+* 如果我们不设置item的滑动方向，默认上下滑动的
+
+## 左右滑动
+```
+第四步里面的代码
+将 LinearLayoutManager layoutManager = new LinearLayoutManager(this);
+
+改为 LinearLayoutManager layoutManager = new LinearLayoutManager(this, RecyclerView.HORIZONTAL, false)
+
+就可以实现左右滑动
+```
