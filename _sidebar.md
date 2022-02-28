@@ -19,3 +19,5 @@
     * [Android开发-使用Room](/Android/part_9.md)
 
     * [Android开发-使用BottomSheetDialog](/Android/part_10.md)
+
+    * [Android开发-动态添加控件](/Android/part_11.md)
