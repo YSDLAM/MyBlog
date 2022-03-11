@@ -15,7 +15,7 @@ android {
 }
 ```
 
-## 新建一个Student类
+## 第二：新建一个Student类
 * DataBinding一般与ViewModel一同使用，本文暂不使用ViewModel
 * 所以先用这个Student类进行演示
 ```
@@ -46,7 +46,7 @@ public class Student {
 }
 ```
 
-## 布局文件
+## 第三：布局文件
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <layout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -131,7 +131,7 @@ public class Student {
 </layout>
 ```
 
-## mainactivity中
+## 第四：MainActivity中
 ```
 public class MainActivity extends AppCompatActivity {
     ActivityMainBinding binding;

@@ -16,14 +16,19 @@
 
     * [Android开发-使用SQLite数据库](/Android/part_8.md)
 
-    * [Android开发-使用Room](/Android/part_9.md)
-
     * [Android开发-使用BottomSheetDialog](/Android/part_10.md)
 
     * [Android开发-动态添加控件](/Android/part_11.md)
 
     * [Android开发-View Binding](/Android/part_12.md)
 
-    * [Android开发-DataBinding](/Android/part_13.md)
-
     
+  
+    
+* Android Jetpack
+  
+    * [Android开发-使用Room](/Android/part_9.md)
+
+    * [Android开发-DataBinding](/Android/part_13.md)
+  
+    * [Android开发-ViewModel](/Android/part_14.md)
