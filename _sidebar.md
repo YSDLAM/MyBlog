@@ -24,4 +24,6 @@
 
     * [Android开发-View Binding](/Android/part_12.md)
 
+    * [Android开发-DataBinding](/Android/part_13.md)
+
     
