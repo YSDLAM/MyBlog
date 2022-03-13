@@ -32,3 +32,5 @@
     * [Android开发-DataBinding](/Android/part_13.md)
   
     * [Android开发-ViewModel](/Android/part_14.md)
+
+    * [Android开发-LiveData](/Android/part_15.md)
