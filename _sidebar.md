@@ -22,6 +22,8 @@
 
   * [Android开发-View Binding](/Android/part_12.md)
 
+  * [Android开发-数据持久储存技术](/Android/part_16.md)
+
 * Android Jetpack
   
   * [Android开发-使用Room](/Android/part_9.md)
